@@ -1,4 +1,4 @@
-## RSInfinityBooster
+## RSInfinityBooster-Fabric
 
 ![](https://img.hexeption.co.uk/vKVY)
 
